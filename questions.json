@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What is 2 + 2?",
+        "options": ["4", "14", "16", "25"],
+        "answer": "A",
+        "category": "math"
+    },
+    {
+        "question": "What is 25 - 6?",
+        "options": ["30", "21", "19", "28"],
+        "answer": "C",
+        "category": "math"
+    },
+    {
+        "question": "What is 12 multiplied by 3?",
+        "options": ["24", "36", "42", "15"],
+        "answer": "B",
+        "category": "math"
+    },
+    {
+        "question": "What is the square root of 81?",
+        "options": ["7", "8", "9", "10"],
+        "answer": "C",
+        "category": "math"
+    },
+    {
+        "question": "Which keyword is used to repeat code for each item in a sequence?",
+        "options": ["loop", "repeat", "for", "each"],
+        "answer": "C",
+        "category": "programming"
+    },
+    {
+        "question": "Which symbol is used for comments in Python?",
+        "options": ["//", "#", "/*", "--"],
+        "answer": "B",
+        "category": "programming"
+    },
+    {
+        "question": "What data type is the value 'Hello' in Python?",
+        "options": ["integer", "float", "string", "list"],
+        "answer": "C",
+        "category": "programming"
+    },
+    {
+        "question": "Which function is used to check the length of a list?",
+        "options": ["size()", "length()", "len()", "count()"],
+        "answer": "C",
+        "category": "programming"
+    },
+    {
+        "question": "Which organ pumps blood around the body?",
+        "options": ["Lungs", "Heart", "Kidney", "Liver"],
+        "answer": "B",
+        "category": "science"
+    },
+    {
+        "question": "What gas do plants absorb from the air?",
+        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+        "answer": "C",
+        "category": "science"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": "B",
+        "category": "science"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": ["90", "100", "110", "120"],
+        "answer": "B",
+        "category": "science"
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "options": ["Lagos", "Abuja", "Kano", "Ibadan"],
+        "answer": "B",
+        "category": "general knowledge"
+    },
+    {
+        "question": "How many continents are there?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "C",
+        "category": "general knowledge"
+    },
+    {
+        "question": "Which is the largest ocean in the world?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "answer": "D",
+        "category": "general knowledge"
+    }
+]
